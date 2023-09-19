@@ -1,5 +1,5 @@
 # mmro
-my first ML homeworks from the university
+my first ML homework from the university
 
 Кафедра ММП, осенний и весенний семестры
  1. Основы pandas + matplotlib
